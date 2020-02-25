@@ -1,0 +1,6 @@
+C:\Users\Mr\RiderProjects\observer-pattern\observer-pattern\bin\Debug\observer_pattern.exe
+C:\Users\Mr\RiderProjects\observer-pattern\observer-pattern\bin\Debug\observer_pattern.pdb
+C:\Users\Mr\RiderProjects\observer-pattern\observer-pattern\obj\Debug\observer-pattern.csprojAssemblyReference.cache
+C:\Users\Mr\RiderProjects\observer-pattern\observer-pattern\obj\Debug\observer-pattern.csproj.CoreCompileInputs.cache
+C:\Users\Mr\RiderProjects\observer-pattern\observer-pattern\obj\Debug\observer_pattern.exe
+C:\Users\Mr\RiderProjects\observer-pattern\observer-pattern\obj\Debug\observer_pattern.pdb
