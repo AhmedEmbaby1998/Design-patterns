@@ -1,2 +1,2 @@
 # design-patterns
-they are the project i had made while learning design pattern
+they are the projects i had made while learning design pattern
